@@ -1,7 +1,5 @@
 ﻿using RateLimitingTest;
 
-var client = new HttpClient();
-
 // URL do endpoint da sua API
 var url = "http://localhost:5299/WeatherForecast";
 
